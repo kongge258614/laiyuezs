@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: business-service
+  cloud:
+    alibaba:
+      seata:
+        tx-service-group: my_test_tx_group
+
+server:
+  port: 8084
+eureka:
+  instance:
+    hostname: 127.0.0.1
+  client:
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:7002/eureka/
+

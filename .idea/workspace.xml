@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a87b0c9-a57f-41ef-ac75-a6394bd27f4d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/business/target/" />
+    <ignored path="$PROJECT_DIR$/order/target/" />
+    <ignored path="$PROJECT_DIR$/storage/target/" />
+    <ignored path="$PROJECT_DIR$/account/target/" />
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1524829396">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="conf" value="59" />
+          <entry key="java" value="107" />
+          <entry key="md" value="3" />
+          <entry key="properties" value="3" />
+          <entry key="xml" value="32" />
+          <entry key="yml" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="107" />
+          <entry key="Markdown" value="3" />
+          <entry key="Properties" value="3" />
+          <entry key="SmartyConfig" value="59" />
+          <entry key="XML" value="32" />
+          <entry key="YAML" value="44" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="50" />
+          <entry key="java" value="324" />
+          <entry key="md" value="13" />
+          <entry key="properties" value="1" />
+          <entry key="txt" value="6" />
+          <entry key="xml" value="8" />
+          <entry key="yml" value="261" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="324" />
+          <entry key="Markdown" value="13" />
+          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="Properties" value="1" />
+          <entry key="SmartyConfig" value="50" />
+          <entry key="XML" value="8" />
+          <entry key="YAML" value="261" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <caret column="9" selection-start-column="9" selection-end-column="9" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>RunDashboard</find>
+      <find>my_test_tx_group</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../spring-framework" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-framework-5.1.x" value="PREVIEW" />
+        <entry key="D:/Workspace/asset" value="PREVIEW" />
+        <entry key="D:/Workspace/authenticate" value="PREVIEW" />
+        <entry key="D:/Workspace/common" value="PREVIEW" />
+        <entry key="D:/Workspace/front" value="PREVIEW" />
+        <entry key="D:/Workspace/location" value="PREVIEW" />
+        <entry key="D:/Workspace/user" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/dao/OrderRepository.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/StorageApplication.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/service/StorageService.java" />
+        <option value="$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/dao/AccountRepository.java" />
+        <option value="$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/controller/BusinessController.java" />
+        <option value="$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/service/BusinessService.java" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/dao/StorageRepository.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/entity/Storage.java" />
+        <option value="$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/config/DataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/controller/StorageController.java" />
+        <option value="$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/service/AccountService.java" />
+        <option value="$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/entity/Account.java" />
+        <option value="$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/service/OrderService.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/entity/Order.java" />
+        <option value="$PROJECT_DIR$/eureka/src/main/java/com/laiyuezs/eureka/EurekaApplication.java" />
+        <option value="$PROJECT_DIR$/business/pom.xml" />
+        <option value="$PROJECT_DIR$/account/pom.xml" />
+        <option value="$PROJECT_DIR$/order/pom.xml" />
+        <option value="$PROJECT_DIR$/storage/pom.xml" />
+        <option value="$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/BusinessApplication.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/OrderApplication.java" />
+        <option value="$PROJECT_DIR$/storage/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/business/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/order/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/account/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/feign/StorageFeignClient.java" />
+        <option value="$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/feign/OrderFeignClient.java" />
+        <option value="$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/feign/AccountFeignClient.java" />
+        <option value="$PROJECT_DIR$/account/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/business/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/order/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/eureka/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/storage/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/business/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/account/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/order/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/storage/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/SoftwareInstallation/Maven/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="D:\SoftwareInstallation\Maven\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="account" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="account" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="order" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="laiyuezs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="laiyuezs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582783561502" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.laiyuezs.account.entity" />
+      <recent name="com.laiyuezs.account.service" />
+      <recent name="com.laiyuezs.account.controller" />
+      <recent name="com.laiyuezs.account.config" />
+      <recent name="com.laiyuezs.storage.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyWorkspace\laiyuezs\storage\src\main\resources" />
+      <recent name="D:\MyWorkspace\laiyuezs\order\src\main\resources" />
+      <recent name="D:\MyWorkspace\laiyuezs\business\src\main\resources" />
+      <recent name="D:\MyWorkspace\laiyuezs\account\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.15963204" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BusinessApplication">
+    <configuration name="AccountApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laiyuezs.account.AccountApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BusinessApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="business" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laiyuezs.business.BusinessApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laiyuezs.eureka.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laiyuezs.order.OrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StorageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="storage" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.laiyuezs.storage.StorageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.BusinessApplication" />
+      <item itemvalue="Spring Boot.OrderApplication" />
+      <item itemvalue="Spring Boot.StorageApplication" />
+      <item itemvalue="Spring Boot.AccountApplication" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a87b0c9-a57f-41ef-ac75-a6394bd27f4d" name="Default Changelist" comment="" />
+      <created>1582549651299</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582549651299</updated>
+      <workItem from="1582549652835" duration="3513000" />
+      <workItem from="1582553811451" duration="5812000" />
+      <workItem from="1582612106757" duration="5005000" />
+      <workItem from="1582618958514" duration="3919000" />
+      <workItem from="1582629723621" duration="5290000" />
+      <workItem from="1582644031333" duration="1935000" />
+      <workItem from="1582647194186" duration="275000" />
+      <workItem from="1582647574818" duration="26000" />
+      <workItem from="1582776185713" duration="2215000" />
+      <workItem from="1582782706310" duration="857000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1582642209856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642209856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1582642234763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642234763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1582642255939</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642255939</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1582642279360</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642279360</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <created>1582642301838</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582642301838</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit">
+      <created>1582643233265</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582643233265</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit">
+      <created>1582643266492</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582643266492</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit">
+      <created>1582643289103</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582643289103</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit">
+      <created>1582643320313</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582643320313</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit">
+      <created>1582646406097</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582646406097</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit">
+      <created>1582646900574</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1582646900574</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit">
+      <created>1582782971988</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1582782971988</updated>
+    </task>
+    <task id="LOCAL-00013" summary="commit">
+      <created>1582783519105</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1582783519105</updated>
+    </task>
+    <task id="LOCAL-00014" summary="commit">
+      <created>1582783539847</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1582783539847</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28847000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39045554" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.3854506" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" sideWeight="0.49840087" weight="0.32899022" />
+      <window_info anchor="bottom" id="Messages" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" sideWeight="0.4989339" visible="true" weight="0.3854506" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/service/BusinessService.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/dao/OrderRepository.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1429">
+          <caret line="478" column="13" selection-start-line="478" selection-start-column="13" selection-end-line="478" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/entity/Storage.java" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/dao/StorageRepository.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/AccountApplication.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/dao/AccountRepository.java" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/StorageApplication.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/config/DataSourceConfig.java" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/config/DataSourceConfig.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/service/AccountService.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/entity/Account.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/controller/AccountController.java" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/controller/StorageController.java" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/java/com/laiyuezs/storage/service/StorageService.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/entity/Order.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/service/OrderService.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/math/BigDecimal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="1480" column="22" selection-start-line="1480" selection-start-column="22" selection-end-line="1480" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/java/com/laiyuezs/eureka/EurekaApplication.java" />
+    <entry file="file://$PROJECT_DIR$/account/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/business/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/order/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/storage/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/BusinessApplication.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/OrderApplication.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.3.RELEASE/spring-aop-5.2.3.RELEASE.jar!/org/springframework/aop/framework/AdvisedSupport.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="357" column="5" lean-forward="true" selection-start-line="357" selection-start-column="5" selection-end-line="357" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.3.RELEASE/spring-aop-5.2.3.RELEASE.jar!/org/springframework/aop/target/SingletonTargetSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.3.RELEASE/spring-aop-5.2.3.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="471" selection-start-line="471" selection-end-line="471" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/controller/BusinessController.java" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/service/BusinessService.java" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/feign/StorageFeignClient.java" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/java/com/laiyuezs/business/feign/OrderFeignClient.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/java/com/laiyuezs/order/feign/AccountFeignClient.java" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/java/com/laiyuezs/account/config/DataSourceConfig.java" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/eureka/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/resources/registry.conf" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/resources/registry.conf" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/resources/registry.conf" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/resources/registry.conf" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/account/src/main/resources/file.conf" />
+    <entry file="file://$PROJECT_DIR$/order/src/main/resources/file.conf" />
+    <entry file="file://$PROJECT_DIR$/storage/src/main/resources/file.conf" />
+    <entry file="file://$PROJECT_DIR$/business/src/main/resources/file.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="9" selection-start-column="9" selection-end-column="9" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
