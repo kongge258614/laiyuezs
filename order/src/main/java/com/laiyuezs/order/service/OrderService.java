@@ -24,7 +24,7 @@ public class OrderService {
     @Autowired
     private OrderRepository orderRepository;
 
-    @Transactional
+//    @Transactional
     public void create(String userId, String commodityCode, Integer count) {
 
         BigDecimal orderMoney = new BigDecimal(count).multiply(new BigDecimal(5));
