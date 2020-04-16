@@ -23,7 +23,7 @@ public class AccountService {
     private AccountRepository accountRepository;
 
 //    @Transactional(rollbackFor = Exception.class)
-//    @Transactional
+    @Transactional
     public void debit(String userId, BigDecimal num) {
         Account account = accountRepository.findByUserId(userId);
 
