@@ -22,7 +22,6 @@ public class AccountService {
     @Autowired
     private AccountRepository accountRepository;
 
-//    @Transactional(rollbackFor = Exception.class)
     @Transactional
     public void debit(String userId, BigDecimal num) {
         Account account = accountRepository.findByUserId(userId);

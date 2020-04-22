@@ -16,11 +16,13 @@ seata:
   tx-service-group: laiyuezs_tx_group                            # 事务组
   registry:
     type: eureka
-    eureka: ${eureka.client.service-url.defaultZone}   # 注册中心
+    eureka:
+      service-url: http://${eureka.instance.hostname}:7002/eureka/
   service:
-    vgroup-mapping: seata-server                           # TC 集群（必须与seata-server保持一致）
     enable-degrade: false                                 # 降级开关
     disable-global-transaction: false                   # 禁用全局事务（默认false）
+    vgroup-mapping:
+      laiyuezs_tx_group: seata-server
   client:
     rm:
       report-success-enable: true
